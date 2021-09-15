@@ -3,6 +3,8 @@
 ## To scrape a Wikipedia page,the page method has been used from the wikipedia module. The name of the page that is for scrapping purpose is passed as a parameter to the page method.
 ## The method returns WikipediaPage object, that is used to retrieve the page contents via the content attribute.
 
+!pip install wikipedia
+
 import nltk
 from nltk.tokenize import sent_tokenize
 
