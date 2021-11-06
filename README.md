@@ -1,2 +1,5 @@
 # Data-Scraping__Scripts
-Documentations for basic understanding on Data scraping / Web Scraping from different sources. 
+Scripts on Data Scraping / Web Scraping. 
+- BeautifulSoup
+- Selenium
+- API
