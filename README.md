@@ -1,5 +1,5 @@
 
-Scripts on Data Scraping / Web Scraping. 
+Scripts on Data Scraping / Web Scraping, automation. 
 - BeautifulSoup
 - Selenium
 - API
